@@ -5,7 +5,10 @@
 ![No Framework](https://img.shields.io/badge/framework-none-lightgrey.svg)
 ![HTML CSS JS](https://img.shields.io/badge/built%20with-HTML%20%2B%20CSS%20%2B%20JS-f4a261.svg)
 
-🔗 **[Open the app](https://yourusername.github.io/ticked-todo-app)**
+<img width="843" height="847" alt="image" src="https://github.com/user-attachments/assets/9d98f9e6-9a69-44ca-9a2c-974d5c936fd4" />
+
+
+🔗 **[Open the app](https://danishmk1286.github.io/Ticked-todo-app/)**
 
 ---
 
@@ -39,7 +42,7 @@ Built with pure HTML, CSS and vanilla JavaScript. Single `.html` file. No framew
 
 No installation needed. Either:
 
-- 🔗 Use the [live app]([https://yourusername.github.io/ticked-todo-app](https://danishmk1286.github.io/Ticked-todo-app/), or
+- 🔗 Use the [live app](https://danishmk1286.github.io/Ticked-todo-app/), or
 - 📁 Download `index.html` and open it in any browser
 
 ---
