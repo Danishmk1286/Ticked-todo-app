@@ -39,7 +39,7 @@ Built with pure HTML, CSS and vanilla JavaScript. Single `.html` file. No framew
 
 No installation needed. Either:
 
-- 🔗 Use the [live app](https://yourusername.github.io/ticked-todo-app), or
+- 🔗 Use the [live app]([https://yourusername.github.io/ticked-todo-app](https://danishmk1286.github.io/Ticked-todo-app/), or
 - 📁 Download `index.html` and open it in any browser
 
 ---
